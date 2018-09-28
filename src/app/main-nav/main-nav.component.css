@@ -1,0 +1,43 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 9;
+}
+p.ui-ng-navi-text {
+  padding-left: 5px;
+}
+
+
+
+
+.example-card {
+  max-width: 400px;
+  z-index: 0;
+  overflow: hidden; 
+}
+
+.example-header-image {
+  background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/05/f0/70/a4/pines-and-palms-resort.jpg');
+  background-size: cover;
+}
+
+mat-grid-tile {
+  background: white;
+}
+
+/* Color Stylesheet for SideNav */
+
+.sidenav {
+  background: #3f51b5;
+}
+a.mat-list-item {
+  color: white;
+}

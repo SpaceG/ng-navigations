@@ -1,0 +1,15 @@
+
+.example-card {
+    max-width: 400px;
+    z-index: 0;
+    overflow: hidden; 
+  }
+  
+  .example-header-image {
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/05/f0/70/a4/pines-and-palms-resort.jpg');
+    background-size: cover;
+  }
+
+  mat-grid-tile {
+    background: white;
+  }
